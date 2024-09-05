@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs proekts\\api-note\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2214AAD0-3C19-4165-9C98-58DB454361FB}|api-note\\api-note.csproj|d:\\vs proekts\\api-note\\api-note\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2214AAD0-3C19-4165-9C98-58DB454361FB}|api-note\\api-note.csproj|solutionrelative:api-note\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2214AAD0-3C19-4165-9C98-58DB454361FB}|api-note\\api-note.csproj|d:\\vs proekts\\api-note\\api-note\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2214AAD0-3C19-4165-9C98-58DB454361FB}|api-note\\api-note.csproj|solutionrelative:api-note\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2214AAD0-3C19-4165-9C98-58DB454361FB}|api-note\\api-note.csproj|d:\\vs proekts\\api-note\\api-note\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2214AAD0-3C19-4165-9C98-58DB454361FB}|api-note\\api-note.csproj|solutionrelative:api-note\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2214AAD0-3C19-4165-9C98-58DB454361FB}|api-note\\api-note.csproj|d:\\vs proekts\\api-note\\api-note\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2214AAD0-3C19-4165-9C98-58DB454361FB}|api-note\\api-note.csproj|solutionrelative:api-note\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2214AAD0-3C19-4165-9C98-58DB454361FB}|api-note\\api-note.csproj|d:\\vs proekts\\api-note\\api-note\\models\\notecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2214AAD0-3C19-4165-9C98-58DB454361FB}|api-note\\api-note.csproj|solutionrelative:api-note\\models\\notecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2214AAD0-3C19-4165-9C98-58DB454361FB}|api-note\\api-note.csproj|d:\\vs proekts\\api-note\\api-note\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2214AAD0-3C19-4165-9C98-58DB454361FB}|api-note\\api-note.csproj|solutionrelative:api-note\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2214AAD0-3C19-4165-9C98-58DB454361FB}|api-note\\api-note.csproj|d:\\vs proekts\\api-note\\api-note\\api-note.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2214AAD0-3C19-4165-9C98-58DB454361FB}|api-note\\api-note.csproj|solutionrelative:api-note\\api-note.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d98f7c4d-b652-422c-bcdf-3d0e2b2da2c1}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "D:\\vs proekts\\api-note\\api-note\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "api-note\\Controllers\\NotesController.cs",
+              "ToolTip": "D:\\vs proekts\\api-note\\api-note\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "api-note\\Controllers\\NotesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:39:27.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\vs proekts\\api-note\\api-note\\appsettings.json",
+              "RelativeDocumentMoniker": "api-note\\appsettings.json",
+              "ToolTip": "D:\\vs proekts\\api-note\\api-note\\appsettings.json",
+              "RelativeToolTip": "api-note\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T11:51:14.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\vs proekts\\api-note\\api-note\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "api-note\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\vs proekts\\api-note\\api-note\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "api-note\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:38:57.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notecs.cs",
+              "DocumentMoniker": "D:\\vs proekts\\api-note\\api-note\\Models\\Notecs.cs",
+              "RelativeDocumentMoniker": "api-note\\Models\\Notecs.cs",
+              "ToolTip": "D:\\vs proekts\\api-note\\api-note\\Models\\Notecs.cs",
+              "RelativeToolTip": "api-note\\Models\\Notecs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:34:57.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vs proekts\\api-note\\api-note\\Program.cs",
+              "RelativeDocumentMoniker": "api-note\\Program.cs",
+              "ToolTip": "D:\\vs proekts\\api-note\\api-note\\Program.cs",
+              "RelativeToolTip": "api-note\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:42:37.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\vs proekts\\api-note\\api-note\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "api-note\\appsettings.Development.json",
+              "ToolTip": "D:\\vs proekts\\api-note\\api-note\\appsettings.Development.json",
+              "RelativeToolTip": "api-note\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T11:51:11.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "api-note.csproj",
+              "DocumentMoniker": "D:\\vs proekts\\api-note\\api-note\\api-note.csproj",
+              "RelativeDocumentMoniker": "api-note\\api-note.csproj",
+              "ToolTip": "D:\\vs proekts\\api-note\\api-note\\api-note.csproj",
+              "RelativeToolTip": "api-note\\api-note.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T11:38:09.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
